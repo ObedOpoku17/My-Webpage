@@ -1,0 +1,55 @@
+body{
+	background-color: floralwhite;
+}
+h1{
+	colour: blue;
+	font-size: 3em;
+	text-decoration: #00ebef underline;
+	text-align: center;
+	text-transform: uppercase;
+			
+}
+
+
+.T-area{
+	border: groove;
+	width: 600px;
+    padding: 20px;
+	border-color: #14374A;
+	border-radius: 10px;
+	padding-bottom: 100px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	align-content: center;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 3;
+}
+.Date1{
+	align-content: center;
+	margin-left: 10px;
+	
+	
+}
+.text{
+	
+}
+.buttons{
+	
+}
+.Date{
+	align-self: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 1em;
+	/*border: groove;*/
+	border-radius: 10px;
+	border: 10px;}
+.Btn-1{
+	
+}
+.Btn-2{
+	
+}
